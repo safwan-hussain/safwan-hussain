@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Safwan Hussain</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <ul>
 	<li>
-	  Working as Senior Lead Data Designer [GSK](https://india-pharma.gsk.com/en-in/) <br>
+	  Working as Senior Lead Data Designer at <a href="https://india-pharma.gsk.com/en-in/">GSK</a> <br>
 	</li>
 	<li>
 	  10 years of experience in Data Engineering, DevOps, MLOps, experience in designing and optimizing relational and NoSql databases
