@@ -30,7 +30,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/safwan-hussain-b94882111" target="_blank">
+<a href="https://www.linkedin.com/in/safwan-hussain-b94882111/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  SafwanHussain-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
